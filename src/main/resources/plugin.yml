@@ -1,0 +1,7 @@
+name: Vector
+version: ${project.version}
+main: io.github.vector.Vector
+api-version: 1.16
+authors: [ Syfe ]
+description: Vector Anti-Cheat is an advance anti-cheat designed to provide a well developed anti-cheat for the latest version of Minecraft.
+website: vectorac.github.io
